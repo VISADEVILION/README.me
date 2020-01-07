@@ -1,6 +1,5 @@
 # README.me
- 
-But de l'organisation:
+
 Bonjour, le but de cet organisation est de mettre à pied un projet que j'ai imaginé. S'il marche, il pourrait se reveler
 fructueux. Cepandant ce projet tel que je l'ai imaginé est trés novateur mais risque d'être un challenge, 
 de nous prendre beaucoup de temps et nécessite des compétences en programmation et une grande patience. 
